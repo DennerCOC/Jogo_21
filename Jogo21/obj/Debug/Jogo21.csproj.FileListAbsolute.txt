@@ -1,0 +1,30 @@
+E:\Executaveis liberados\Jogo21\Jogo21\bin\Debug\Jogo21.exe.config
+E:\Executaveis liberados\Jogo21\Jogo21\bin\Debug\Jogo21.exe
+E:\Executaveis liberados\Jogo21\Jogo21\bin\Debug\Jogo21.pdb
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.Form1.resources
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.Properties.Resources.resources
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.exe
+E:\Executaveis liberados\Jogo21\Jogo21\obj\Debug\Jogo21.pdb
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\bin\Debug\Jogo21.exe.config
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.exe
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.pdb
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\bin\Debug\Jogo21.exe
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\bin\Debug\Jogo21.pdb
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.csprojResolveAssemblyReference.cache
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.Form1.resources
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.Properties.Resources.resources
+E:\EXECUTAVEIS LIBERADOS\JOGO_21\Jogo21\Jogo21\obj\Debug\Jogo21.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\bin\Debug\Jogo21.exe.config
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.exe
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.pdb
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\bin\Debug\Jogo21.exe
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\bin\Debug\Jogo21.pdb
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.Form1.resources
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.Properties.Resources.resources
+E:\Executaveis liberados\GITHUB\Jogo 21\Jogo21\obj\Debug\Jogo21.csproj.GenerateResource.Cache
+E:\executaveis liberados\GITHUB\Jogo_21\Jogo21\bin\Debug\Jogo21.exe.config
+E:\executaveis liberados\GITHUB\Jogo_21\Jogo21\obj\Debug\Jogo21.exe
+E:\executaveis liberados\GITHUB\Jogo_21\Jogo21\obj\Debug\Jogo21.pdb
